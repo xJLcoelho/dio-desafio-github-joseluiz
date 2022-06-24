@@ -2,4 +2,5 @@
 Desafios de Projetos do DIO
 
 ## Links Uteis 
-[Sintaxe Basica Markdw]()
+[[Sintaxe Basica Markdw]()
+](https://www.markdownguide.org/basic-syntax/)
